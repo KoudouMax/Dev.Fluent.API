@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Dev.Fluent.Domain": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63642;http://localhost:63644"
+    }
+  }
+}
