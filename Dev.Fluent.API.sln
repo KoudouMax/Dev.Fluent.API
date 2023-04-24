@@ -7,23 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dev.Fluent.API", "Dev.Fluen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dev.Fluent.IoC", "Dev.Fluent.IoC\Dev.Fluent.IoC.csproj", "{165ADCEE-ABE8-44B9-ADEF-A468F886F71B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dev.Fluent.Domains", "Dev.Fluent.Domains", "{C7C539EB-7DA6-4BB7-B74F-DA2088570AE4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dev.Fluent.Domain", "Dev.Fluent.Domain\Dev.Fluent.Domain.csproj", "{841A1587-3F76-40E6-8173-FFF3BD218503}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dev.Fluent.Infrastructures", "Dev.Fluent.Infrastructures", "{74A91229-B1A4-4E47-8482-FDBF730BF089}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dev.Fluent.Data", "Dev.Fluent.Data", "{4DA82377-8B29-44B3-8471-801CBECB4FEE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dev.Fluent.IoC", "Dev.Fluent.IoC", "{74A91229-B1A4-4E47-8482-FDBF730BF089}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dev.Fluent.Data", "Dev.Fluent.Data\Dev.Fluent.Data.csproj", "{F607A904-A723-471A-AD30-BFD2901982B6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dev.Fluent.Common", "Dev.Fluent.Common", "{FFBB784D-B8A9-4042-B2F4-4419514DC0FF}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dev.Fluent.Common", "Dev.Fluent.Common\Dev.Fluent.Common.csproj", "{6BCF0185-4F08-4130-90AF-17B09235EF6A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dev.Fluent.Application", "Dev.Fluent.Application", "{BC0AB930-22C3-4113-9195-3C4DFEDFD354}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev.Fluent.API.Application", "Dev.Fluent.API.Application\Dev.Fluent.API.Application.csproj", "{F7CD3083-B4EA-4DB8-B74C-B6A3198145AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dev.Fluent.Application", "Dev.Fluent.API.Application\Dev.Fluent.Application.csproj", "{F7CD3083-B4EA-4DB8-B74C-B6A3198145AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
